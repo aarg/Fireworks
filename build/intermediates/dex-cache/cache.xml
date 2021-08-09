@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_1e4ec2e91945ed9586745ab524c7fcd31863a1a7.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_bf6d92c822d4a350c0fe8827815bce107ad66840.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha3_63e82c2c8863bc40badc8706a31ecfa9a354922d.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b8ae1ac1c6c5cd9c3b9eb557c7aab3d440312412.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_b54bb47a5bde5b414a03e60f9eea9c0a319dc8bd.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ef0ac1dd34f358d8c3061b9d11ab61826dcdaf39.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_cfedc57a10748d10d393c1f94d787542b78a2861.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ab499ce609012c355d0568b761fa92a1e4619774.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d5b42e86185d495a5d41545bea658c2459586b6c.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_d23aec4d1c8f7a1b2e7361084d8ff4f1a9b6ac31.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_cc4d346287e9de45f7bd263b08c9f1834662fbea.jar" />
+    </item>
+    <item
+        jar="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/rohitg/Documents/playdroid/Fireworks/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_75dabf1d1c8bad569a690c4551a611c302c9f696.jar" />
+    </item>
+
+</items>
